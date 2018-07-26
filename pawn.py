@@ -80,12 +80,7 @@ in this location"
 
 print "Running pawn.py"
 
-wqueen = Queen([5,1], "white")
-wpawn = Pawn([5,2], "white")
-bqueen = Queen([5,8], "black")
-bpawn = Pawn([5,7], "black")
-
-# w1pawn = Pawn([1,2], "black")
-# w2pawn = Pawn([2,2], "white")
-# b1pawn = Pawn([1,7], "black")
-# b2pawn = Pawn([2,7], "black")
+# wqueen = Queen([5,1], "white")
+# wpawn = Pawn([5,2], "white")
+# bqueen = Queen([5,8], "black")
+# bpawn = Pawn([5,7], "black")
